@@ -5,6 +5,18 @@
 + Para o público em geral é recomendado o acesso as "Conclusões", disponível através do link abaixo:
 ```
 
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/0.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 1"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 2"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/3.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 3"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/4.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 4"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/5.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 5"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/6.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 6"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/7.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 7"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/8.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 8"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/10.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 10"/></a><br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/11.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 11"/></a><br>
+
 ## GRÁFICOS DINÂMICOS PRELIMINARES: https://murilokrominski.github.io/Data-Science_ENEM-2019/
 
 <a href="https://github.com/MuriloKrominski/Data-Science_ENEM-2019-Results">
