@@ -1,10 +1,11 @@
 ```diff
-- ATENÇÃO:
-- Este é um trabalho avançado em Data Science com base nas informações públicas do ENEM 2019/CE-INEP 2020.
-- Conteúdo de nível técnico recomendado aos que possuem familiaridade com trabalhos científicos em dados brutos.
-+ Para o público em geral é recomendado o acesso as "Conclusões", disponível através do link abaixo:
+ATENÇÃO:
++ Este é um trabalho avançado com os dados públicos de ENEM 2019/CE-INEP 2020.
+- O Storytelling e a Conclusão foram inicialmente desenvolvidos no Prezi, mas por terem ficado enormes, estão sendo migrados para um repositório indicado neste trabalho.
 ```
 
+## Nootebooks:
+<img align="center" width="100" src="link.png">  
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/0.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 0"/></a><br>
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/1.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 1"/></a><br>
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 2"/></a><br>
@@ -16,12 +17,6 @@
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/8.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 8"/></a><br>
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/10.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 10"/></a><br>
 <a href="https://colab.research.google.com/github/MuriloKrominski/Data-Science_ENEM-2019/blob/main/11.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab 11"/></a><br>
-
-## GRÁFICOS DINÂMICOS PRELIMINARES: https://murilokrominski.github.io/Data-Science_ENEM-2019/
-
-<a href="https://github.com/MuriloKrominski/Data-Science_ENEM-2019-Results">
-    <img align="center" width="100" src="link.png" /> https://github.com/MuriloKrominski/Data-Science_ENEM-2019-Results
-  </a>
 
 # ENEM 2019 - Trabalho de Ciência de Dados
 
@@ -5880,7 +5875,7 @@ for i in range(1,21):
 ## GRÁFICOS DINÂMICOS PRELIMINARES https://murilokrominski.github.io/Data-Science_ENEM-2019/
 
 ## Conclusões
-+ As conclusões estao disponíveis através do link abaixo:
++ As conclusões seguem disponíveis através do link abaixo:
 ```
 
 <a href="https://github.com/MuriloKrominski/Data-Science_ENEM-2019-Results">
